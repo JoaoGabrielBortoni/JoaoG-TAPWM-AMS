@@ -1,0 +1,4 @@
+PORT=3000
+MONGO_URI= mongodb+srv://joaogabrielbortoni_db_user:9xjh8w3axGVk3ZjF@dbcontatos.tvvvjrz.mongodb.net/?appName=dbContatos
+
+
