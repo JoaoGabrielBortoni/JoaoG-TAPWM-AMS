@@ -1,0 +1,27 @@
+{
+  "name": "joaog-tapwm-ams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoGabrielBortoni/JoaoG-TAPWM-AMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JoaoGabrielBortoni/JoaoG-TAPWM-AMS/issues"
+  },
+  "homepage": "https://github.com/JoaoGabrielBortoni/JoaoG-TAPWM-AMS#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongodb": "^7.2.0",
+    "mongoose": "^9.6.2"
+  }
+}
